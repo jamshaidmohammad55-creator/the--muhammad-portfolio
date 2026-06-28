@@ -211,7 +211,7 @@ function App() {
         <h2>Contact Me</h2>
 
         <p>Email: jamshaidmohammad55@gmail.com</p>
-        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+        <p>LinkedIn: linkedin.com/in/muhammad-khan</p>
       </section>
     </>
   );
